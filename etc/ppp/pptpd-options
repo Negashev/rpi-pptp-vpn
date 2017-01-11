@@ -1,13 +1,5 @@
-name pptpd
-refuse-pap
-refuse-chap
-refuse-mschap
-require-mschap-v2
-require-mppe-128
-ms-dns 8.8.8.8
-nodefaultroute
-lock
+ms-dns 192.168.1.1
 nobsdcomp
 noipx
-mtu 1480
-mru 1480
+mtu 1490
+mru 1490
