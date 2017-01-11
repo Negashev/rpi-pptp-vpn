@@ -8,3 +8,6 @@ ms-dns 8.8.8.8
 nodefaultroute
 lock
 nobsdcomp
+noipx
+mtu 1480
+mru 1480
